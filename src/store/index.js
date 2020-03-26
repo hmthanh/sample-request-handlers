@@ -4,6 +4,7 @@ import thunk from 'redux-thunk';
 import rootReducers from '../redux/reducers';
 
 import {composeEnhancers} from './utils';
+console.log("store index.js");
 
 function configureStore(initialState = {}) {
   const enhancer = composeEnhancers(applyMiddleware(thunk));

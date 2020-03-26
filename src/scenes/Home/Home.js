@@ -12,6 +12,7 @@ import SuccessModal from '../../components/SuccessModal';
 import styles from './Home.module.css';
 
 const Home = () => {
+  console.log("start component");
   const dispatch = useDispatch();
   const successModalToggle = useToggle();
 
@@ -25,6 +26,7 @@ const Home = () => {
   }, []);
 
   const onClick = useCallback(() => {
+    console.log("HOME onClick");
     dispatch(getUsers())
       .then(() => {
         successModalToggle.setActive();
@@ -33,6 +35,8 @@ const Home = () => {
         displayError();
       });
   }, [dispatch, successModalToggle, displayError]);
+
+  console.log("HOME start render");
 
   return (
     <div className={styles.container}>

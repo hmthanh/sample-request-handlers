@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c96b198-9c0c-44ed-9a06-13104703acde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/apis/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/apis/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/constants/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/constants/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/reducers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/reducers/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/selectors/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/selectors/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenes/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1Zf8GErMpXIdnCSzgAEy5PSpYQV" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c96b198-9c0c-44ed-9a06-13104703acde" name="Default Changelist" comment="" />
+      <created>1585218690015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585218690015</updated>
+      <workItem from="1585218694593" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585218954924">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="492" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1585218954924" />
+  </component>
+</project>

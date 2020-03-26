@@ -1,5 +1,7 @@
 import {compose} from 'redux';
 
+console.log("utils.js");
+
 export const composeEnhancers =
   (process.browser &&
     window &&

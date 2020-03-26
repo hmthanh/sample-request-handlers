@@ -9,6 +9,7 @@ import Header from './components/Header';
 import Home from './scenes/Home';
 
 import './App.css';
+console.log("App.js");
 
 function App() {
   const {Footer, Content} = Layout;
